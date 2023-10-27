@@ -45,3 +45,8 @@ display: none;
 .goog-te-banner-frame.skiptranslate {
     display: none !important;
     } 
+    
+    body {
+		top: 0px !important; 
+		}
+	
