@@ -7,7 +7,9 @@
 
 3.  give follwoing id to your element
   
-  <i id="google_translate_element" style="color: black;margin-top: 22px;" class="fa fa-language fa-xl" onclick="foo();"></i>
+  <i id="google_translate_element" style="color: black;" class="fa fa-language fa-xl" onclick="foo();"></i>
+
+
 
 
 4. css for link customization if required
@@ -50,3 +52,7 @@ display: none;
 		top: 0px !important; 
 		}
 	
+
+
+
+

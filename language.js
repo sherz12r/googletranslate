@@ -149,3 +149,33 @@ function foo(){
   $("option[value='kri']").text("meengq Kri");
   $("option[value='mni-Mtei']").text("ꯃꯅꯤꯄꯨꯔꯤꯗꯥ ꯂꯩꯕꯥ꯫");
 }
+
+
+// if you want to change language on click use follwoing
+//window.location ='#googtrans(ar|en)';location.reload();
+
+
+// if you want to change languages on click dynamic or manually use follwoing you can update as per your needs
+
+// function foo(ele) {
+//   var text = ele.textContent;
+//   var firstlang, secondlang, newtext;
+
+//   if(text == 'English' || text == 'إنجليزيالعربيةالإنجليزيةتدعمه' || text == 'Englishالعربيةالإنجليزيةتدعمه'){
+//   firstlang = 'ar';
+//     secondlang = 'en';
+//     newtext = 'عربى';
+//   }if (text === 'عربى') {
+//     firstlang = 'en';
+//     secondlang = 'ar';
+//     newtext = 'English';
+//   }
+
+//     window.location = '#googtrans(' + firstlang + '|' + secondlang + ')';
+//     location.reload();
+
+
+// }
+
+
+
